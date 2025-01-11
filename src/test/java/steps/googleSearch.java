@@ -15,6 +15,7 @@ import pages.googleHomePage;
 import java.util.concurrent.TimeUnit;
 
 public class googleSearch extends googleBase {  // extends is for inheritance.
+  // creating my first PR and merging it
 
     //public WebDriver driver;
 
